@@ -1,0 +1,62 @@
+﻿Part A – Case Study:
+
+
+What is the crime?
+
+
+Phishing is a type of cybercrime where scammers masquerade as a trusted entity—like a bank, a university, or a popular service—to trick people into handing over sensitive data like passwords, credit card numbers, or login credentials.
+
+
+How it typically happens (Step-by-Step):
+
+
+1. The Hook: A student receives an email that looks identical to their university’s official portal. The subject line usually creates panic, such as "Urgent: Account Suspension" or "Unusual Login Detected."
+2. The Lure: The email contains a link to a fake website that looks exactly like the student's login page.
+3. The Capture: The student, feeling rushed and anxious, enters their username and password.
+4. The Theft: The attacker captures these credentials in real-time. Often, they then redirect the student to the actual university site so the student never realizes they were just robbed of their data.
+
+
+Who is usually targeted?
+
+
+Students are prime targets because they manage multiple digital accounts (financial aid, student portals, and social media) and often check emails quickly between classes, making them more likely to miss small red flags.
+What are the consequences?
+
+
+The results can be devastating. Attackers can steal personal identities, drain bank accounts linked to student IDs, or sell the login credentials on the dark web. Beyond financial loss, it often leads to a massive loss of privacy and weeks of stressful recovery efforts to secure compromised accounts
+
+
+
+
+
+
+
+
+Part B – Prevention Checklist: 
+
+
+Stay Safe Online: A Student’s Guide to Digital Security
+
+
+1. Never "PIN" for receiving money: Remember that you never need to enter your UPI PIN to receive money. If someone tells you to scan a QR code or enter a PIN to get a refund or prize, it is a scam.
+
+
+2. Verify the "Official" calls: If you get a call from someone claiming to be from your bank or a courier service (like Delhivery or Blue Dart) asking for an OTP, hang up. Call the official customer care number found on their website instead.
+
+
+3. Use 2FA everywhere: Enable Two-Factor Authentication on your WhatsApp, Instagram, and college email. It’s the single best way to stop someone from logging into your accounts even if they guess your password.
+
+
+4. Public Wi-Fi caution: Avoid checking your bank account or logging into student portals while on free cafe or railway station Wi-Fi. Use your mobile data or a trusted VPN for anything sensitive.
+
+
+5. Check the "HTTPS": Before typing your password or card details on a site, look for the padlock icon in the browser address bar. If it says "Not Secure," stay away.
+
+
+6. Screen Sharing danger: Never download apps like AnyDesk or TeamViewer if a "technician" or "customer agent" over the phone asks you to. This gives them total control over your phone and banking apps.
+
+
+7. Limit "Check-ins": Try not to post your live location or "check-in" at your college or favorite hangout in real-time. Wait until you’ve left the location to share your photos to protect your physical safety.
+
+
+8. The "If it’s too good to be true" rule: Those WhatsApp messages offering part-time jobs for ₹5,000/day for just liking YouTube videos? They are almost always "Task Scams." Delete them immediately.
