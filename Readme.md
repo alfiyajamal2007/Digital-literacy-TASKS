@@ -58,3 +58,6 @@ It is important to manage screen time, avoid addiction, and use technology for u
 This module focused on using technology in a balanced and responsible way. I learned that overuse of devices can affect health and productivity.
 
 It is important to manage screen time, avoid addiction, and use technology for useful purposes like learning and creativity.
+
+GOOGLE FORMS TASK 3 LINK -
+https://docs.google.com/forms/d/e/1FAIpQLSdpxOj7jaK1-UMroOaV8432fnB698Yv6XC3lHsug2oT8XFTWw/viewform?usp=publish-editor
